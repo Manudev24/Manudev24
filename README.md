@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Manuel Hernandez</h1>
+<h1 align="center">Hi there, I'm Manuel Hernandez</h1>
 <h3 align="center">I am a systems engineer focused mainly on the area of software development, especially in the mobile field (Android - iOS) and backend. I have gained experience through participation in various projects. I am a technology enthusiast who is always eager to learn new things. I especially enjoy self-taught learning, taking advantage of the resources available on the internet.</h3>
 
 <h3 align="left">Connect with me:</h3>
